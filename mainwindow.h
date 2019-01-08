@@ -20,8 +20,8 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
-#include <QMainWindow>
-#include <QActionGroup>
+#include <QtWidgets/QMainWindow>
+#include <QtWidgets/QActionGroup>
 
 #include <QtAddOnSerialPort/serialport.h>
 #include <QtAddOnSerialPort/serialportinfo.h>
